@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Notification Orchestrator
 
 A high-performance, scalable notification orchestration platform built with FastAPI, Celery, and SQLAlchemy. Capable of handling 10,000+ notifications per minute with intelligent rules engine and multi-channel delivery.
@@ -25,3 +26,7 @@ A high-performance, scalable notification orchestration platform built with Fast
 │  Database   │    │  Service    │    │ Providers   │
 └─────────────┘    └─────────────┘    └─────────────┘
 
+=======
+# notifier
+Notification Orchestration platform
+>>>>>>> 5dd04a281da11e24babf9c835965ea7ed6b15a4e
